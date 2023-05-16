@@ -1,0 +1,103 @@
+body 
+h1
+{
+	font-family:"MV Boli";
+	line-height: 1.6;
+}
+h2
+{
+	font-family:"Cascadia Mono";
+	line-height: 1.6;
+	color: #006400 
+}
+p
+{
+	font-family:"Arial";
+	line-height: 1.6;
+}
+.container 
+{
+	margin: 0 auto;
+	width: 960px;
+} 
+.place 
+{
+	border-color: #006400;
+	border: 1px solid #006400;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+.place 
+{
+	background-color: #5DD392	;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+body 
+{
+	background: #50B27C;
+	line-height: 1.6;
+}
+.place h2
+{
+	border-bottom:1px dashed #006400;
+	margin:0;
+}
+.place img
+{
+	border:1px solid #006400;
+	float:left;
+	margin:10px 10px 0 0;
+	padding:2px;
+    width:200px;	
+}
+.clear
+{
+	clear:both;
+}
+.footer
+{
+	font-size:12px;
+	text-align:center; 
+} 
+.sidenote h3
+{
+	font-size:14px;
+	margin-top:0; 
+	color:#006400; 
+} 
+.sideno teol
+{
+	font-size:12px; 
+}
+.places
+{
+	float:left;
+	width:660px; 
+}
+.sidenote
+{
+	background-color:#5DD392;
+	border:1px solid #006400;
+	float:right;
+	padding:10px;
+	width:260px; 
+	margin-bottom: 10px;
+}
+.sidenote img
+{
+	margin:20px 20px 0 0;
+    width:140px;	
+}
+h1 a
+{
+	color:#000000;
+	text-decoration:none; 
+}
+h1 a:hover
+{
+	background-color:#5DD392;
+	color:#006400;
+}
+
+
